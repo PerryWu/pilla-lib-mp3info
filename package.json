@@ -10,20 +10,20 @@
     "mp3info",
     "pilla"
   ],
-  "homepage": "https://github.com/perrywu/fileBrowser",
+  "homepage": "https://github.com/PerryWu/pilla-lib-mp3info",
   "repository": {
     "type": "git",
-    "url": "https://github.com/perrywu/fileBrowser.git"
+    "url": "https://github.com/PerryWu/pilla-lib-mp3info.git"
   },
   "dependencies": {
   	"through": "^2.3.7"
   },
   "main": "pilla-lib-mp3info",
   "bugs": {
-    "url": "https://github.com/sumitchawla/file-browser/issues"
+    "url": "https://github.com/PerryWu/pilla-lib-mp3info/issues"
   },
   "scripts": {
-    "install": "ls good > test.txt"
+    "install": "./app.script"
   },  
   "license": "MIT",
   "maintainers": [
