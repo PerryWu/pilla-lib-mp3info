@@ -4,7 +4,7 @@
     "name": "Perry Wu",
 	"email" : "perry.wu0606@gmail.com"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A very simple wrapper functions to get mp3 inforamtion from native mp3info package.",
   "keywords": [
     "mp3info",
