@@ -1,6 +1,7 @@
 ## Introduction
 A very simple wrapper functions to get mp3 inforamtion from native mp3info package. 
-__NOTE:__ Please have mp3info instatlled first.
+For more information, please visit the github [link](https://github.com/PerryWu/pilla-lib-mp3info)
+__NOTE:__ Please have `mp3info` instatlled first.
 
 ## Steps
 * Install mp3info
